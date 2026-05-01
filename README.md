@@ -62,8 +62,6 @@ Replace `YOUR_TOKEN_HERE` with your actual bot token:
 client.login("MTQ5OTgy...");  // paste your token between the quotes
 ```
 
-> ⚠️ Never share your token or push it to a public repo. Anyone with it can control your bot.
-
 ### 5. Invite the bot to your server
 
 1. Go to your app → **OAuth2** → **URL Generator**
