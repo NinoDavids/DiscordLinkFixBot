@@ -27,7 +27,7 @@ When someone sends a link, the bot deletes the original message and reposts it u
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/discord-link-fixer
+git clone https://github.com/NinoDavids/DiscordLinkFixBot
 cd discord-link-fixer
 ```
 
